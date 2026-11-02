@@ -1,0 +1,16 @@
+{
+  "enabled": false,
+  "niche": "Technology & Coding",
+  "language": "Hinglish",
+  "post_times": [
+    "12:30",
+    "19:00"
+  ],
+  "voice": "Hindi Male (Madhur)",
+  "speed": "+10%",
+  "youtube_upload": true,
+  "youtube_privacy": "private",
+  "instagram_upload": false,
+  "max_videos_per_day": 2,
+  "last_run": null
+}

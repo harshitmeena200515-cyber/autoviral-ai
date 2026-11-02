@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2026-10-09 01:19:40",
+    "status": "FAILED",
+    "topic": "3 Free AI Tools That Replace Paid Software",
+    "video_path": "",
+    "youtube_status": "Skipped",
+    "youtube_url": "",
+    "instagram_status": "Skipped",
+    "error": "AudioEngine.generate_speech() got an unexpected keyword argument 'rate'"
+  }
+]
